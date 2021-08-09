@@ -1,1 +1,1 @@
-# GUI_Tkinter
+# pythonGUI_Tkinter
